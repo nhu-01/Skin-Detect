@@ -232,10 +232,8 @@ Prints evaluation metrics
 Creates comparison table
 
 Authors
-Sanjina Kumari
-
-
 Nhu Nguyen
+Sanjina Kumari
 
 
 CS 330: Introduction to Machine Learning
